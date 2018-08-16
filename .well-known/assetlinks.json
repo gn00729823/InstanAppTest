@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yirufa",
+    "sha256_cert_fingerprints":
+    ["C9:D7:EE:30:45:E9:F5:81:CE:7C:98:68:D1:75:44:48:83:6D:E4:B9:CB:0D:F4:BB:5D:F5:A7:76:AC:5C:91:DB"]
+  }
+}]
